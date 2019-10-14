@@ -4,8 +4,8 @@ This is the project containing some basic Arduino Projects done on NodeMCU durin
 
 ## Contents
 
--Projects using ThingSpeak
--Projects using Ubidot
+- Projects using ThingSpeak
+- Projects using Ubidot
 
 ## Prerequisites
 
